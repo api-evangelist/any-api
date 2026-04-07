@@ -31,8 +31,8 @@ apis:
     tags:
       - API Directory
       - API Explorer
-      - Swagger
       - Public APIs
+      - Swagger
     properties:
       - type: Documentation
         url: https://any-api.com
