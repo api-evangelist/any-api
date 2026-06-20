@@ -6,7 +6,7 @@ description: >-
   scalable APIs across categories including AI, finance, content, and data.
   APILayer provides a unified developer experience with sandboxing, SDKs, and
   a single subscription for access to multiple API products.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - API Directory
   - API Explorer
@@ -24,7 +24,7 @@ apis:
       subscription, API sandboxing, SDK generation, and monitoring across a
       catalog of APIs covering AI and machine learning, finance, exchange rates,
       content, background removal, email validation, and more.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://apilayer.com
     baseURL: https://api.apilayer.com
     tags:
