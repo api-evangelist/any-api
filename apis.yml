@@ -50,6 +50,8 @@ maintainers:
     X: apievangelist
     url: https://apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/any-api-domain-security.yml
   - type: Portal
     url: https://apilayer.com
   - type: Marketplace
@@ -62,3 +64,5 @@ common:
     url: https://apilayer.com/terms
   - type: PrivacyPolicy
     url: https://apilayer.com/privacy
+  - url: https://apilayer.com/blog/feed/
+    type: Blog
