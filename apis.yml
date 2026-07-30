@@ -6,7 +6,19 @@ description: >-
   scalable APIs across categories including AI, finance, content, and data.
   APILayer provides a unified developer experience with sandboxing, SDKs, and
   a single subscription for access to multiple API products.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/any-api.png
 tags:
   - API Directory
   - API Explorer
